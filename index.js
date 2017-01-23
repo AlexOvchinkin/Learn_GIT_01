@@ -1,6 +1,6 @@
-function mul(a) {
+function deduction(a) {
     return function (b) {
-        return a * b;
+        return a - b;
     }
 }
 
