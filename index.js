@@ -5,7 +5,7 @@ function sum(a) {
 }
 
 function fullName(first, second) {
-    return first + " " + second;
+    return "Hello " + first + " " + second;
 }
 
 alert(add(2)(3));
